@@ -1,0 +1,46 @@
+{
+  "chain": "Robinhood Chain",
+  "chainId": 4663,
+  "contracts": {
+    "normal": "0xf525c15ab491bb3fcc8dc69cbae33384fe4cc966",
+    "premium": "0xdd97336d04e27e5630ab6208a44e322b0cf94f8d",
+    "gift": "0x043994f9baae0beff9af0b324b9fd499c0ffcf8a",
+    "baskets": "0x14e1c8aad9bad2fed0e53ce362ccdcf3f4c7237a",
+    "router": "0x28182af2e40e967c98c3eef596a08ff880d87d1d",
+    "random": "0x3a1783e4685b2075cfc736c3df0948a0f359c4d1"
+  },
+  "stable": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+  "weth": "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
+  "ethUsdFeed": "0x78F3556b67E17Df817D51Ef5a990cDaF09E8d3A9",
+  "dex": {
+    "uniV3Router": "0xCaf681a66D020601342297493863E78C959E5cb2",
+    "uniV3Quoter": "0x33e885eD0Ec9bF04EcfB19341582aADCb4c8A9E7"
+  },
+  "stocks": [
+    {
+      "symbol": "AAPL",
+      "token": "0xaF3D76f1834A1d425780943C99Ea8A608f8a93f9",
+      "chainlinkFeed": "0x6B22A786bAa607d76728168703a39Ea9C99f2cD0"
+    },
+    {
+      "symbol": "AMZN",
+      "token": "0x12f190a9F9d7D37a250758b26824B97CE941bF54",
+      "chainlinkFeed": "0xD5a1508ceD74c084eBf3cBe853e2C968fB2a651C"
+    },
+    {
+      "symbol": "AMD",
+      "token": "0x86923f96303D656E4aa86D9d42D1e57ad2023fdC",
+      "chainlinkFeed": "0x943A29E7ae51A4798823ca9eEd2ed533B2A22C72"
+    },
+    {
+      "symbol": "COIN",
+      "token": "0x6330D8C3178a418788dF01a47479c0ce7CCF450b",
+      "chainlinkFeed": "0xA3a468A452940B7D6b69991207B508c609a98Ef2"
+    },
+    {
+      "symbol": "CRCL",
+      "token": "0xdF0992E440dD0be65BD8439b609d6D4366bf1CB5",
+      "chainlinkFeed": "0x6652eDf64bA3731C4F2D3ce821A0Fb1f1f6b482a"
+    }
+  ]
+}
