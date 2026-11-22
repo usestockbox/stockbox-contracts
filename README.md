@@ -2,7 +2,11 @@
 
 Smart contracts behind [usestockbox.com](https://usestockbox.com): mystery crates, gift crates, baskets and swaps that pay out real Robinhood stock tokens on **Robinhood Chain** (chain id 4663).
 
-[Website](https://usestockbox.com) · [X @usestockbox](https://x.com/usestockbox) · [Docs](https://usestockbox.com/#docs)
+[Website](https://usestockbox.com) · [X @usestockbox](https://x.com/usestockbox) · [Docs](https://usestockbox.com/#docs) ## Official StockBox token
+
+Robinhood Chain (4663): `0xf58063bf99aa8241fef4668b9ed283bec531d450`
+
+This is the only official $STOCKBOX contract. Any other token with the same ticker is not ours. Research page: [HEY Research](https://heyresearch.xyz/project/stockbox-f58063)
 
 ## Deployed on Robinhood Chain mainnet
 
