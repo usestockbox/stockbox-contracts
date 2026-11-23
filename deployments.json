@@ -1,6 +1,7 @@
 {
   "chain": "Robinhood Chain",
-  "chainId": 4663,
+  "chainId": 4663,  "token": "0xf58063bf99aa8241fef4668b9ed283bec531d450",
+  "verifier": "0x2C7EA7c54bd85F840E36934EA5536378913aF048",
   "contracts": {
     "normal": "0xf525c15ab491bb3fcc8dc69cbae33384fe4cc966",
     "premium": "0xdd97336d04e27e5630ab6208a44e322b0cf94f8d",
